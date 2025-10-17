@@ -34,13 +34,21 @@ It’s not just a project — it’s a hands-on way to learn core engineering pr
 ## Project Structure
 
 Cortex3D/
+
 ├─ core/          # math, types, utilities
+
 ├─ render/        # software rasterizer, shaders
+
 ├─ scene/         # scene graph, transforms
+
 ├─ physics/       # integrators, collisions, solvers
+
 ├─ io/            # loaders, input handling
+
 ├─ tools/         # debugging, visualization, tests
+
 ├─ examples/      # sample scenes
+
 └─ README.md
 
 ---
